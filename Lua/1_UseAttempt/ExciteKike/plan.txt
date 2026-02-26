@@ -1,0 +1,43 @@
+main menu MODE
+-main menu state
+-handle main menu controls
+-render main menu
+
+primary outer loop
+based on mode, enter correct inner loop
+
+GAME MODE
+--  in game mode, sub modes holding play state:
+--  |-- 
+
+game setup
+--  checks for saved state
+--  resets state if none
+--  preps game for play
+
+--  game loop
+--  handle game controls
+
+
+game tear down
+
+
+game state
+game renderer
+game file loading
+game saving
+
+
+in game menu
+in game UI
+constraint applyer
+--  list your constraints
+--  output positions based on constraints
+
+JUICIFY
+--  visually
+--  mechanically
+
+visuels
+music
+ads? lul

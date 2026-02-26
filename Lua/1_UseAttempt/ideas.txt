@@ -1,0 +1,9 @@
+-make gui for the noise landscape generator
+-give raycasting wall height
+-raycast to a grid
+-raycasting in 3d
+-raycasting onto landscape generator?
+-shader stuff with vertex shader
+-2d rotations on landscape generator?
+-3d rotations on landscape generator?
+-lover generator
